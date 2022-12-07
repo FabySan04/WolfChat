@@ -1,0 +1,27 @@
+*{
+    overflow-x: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#header{
+    text-align: center;
+    background-color: #162D4D;
+    font-size: larger;
+    border-radius: 1%;
+}
+h1{
+    color: #F9F9F9;
+}
+#header img{
+    float: right;
+    margin-right: 10px;
+    margin-top: 5PX;
+    margin-left: 2PX;
+    border-radius: 1.5%;
+    max-width: 100px;
+    max-height: auto;
+}
+img.imagen_logo{
+    width: 220px;
+    height: auto;
+}
+
